@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout3"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/intro3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_some_text" />
+
+    <EditText android:id="@+id/enter3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <Button android:id="@+id/speak3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/speak" />
+
+    <Button android:id="@+id/clear3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/clear"
+        android:paddingEnd="30dp"
+        android:paddingRight="30dp" />
+
+</LinearLayout>

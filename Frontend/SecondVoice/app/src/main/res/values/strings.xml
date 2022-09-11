@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SecondVoice</string>
+    <string name="enter_some_text">Enter some text:</string>
+    <string name="speak">Speak!</string>
+    <string name="canvas">Canvas</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="clear">Clear</string>
+    <string-array name="gender_list">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="locale_list">
+        <item>US</item>
+        <item>Canada</item>
+        <item>French</item>
+    </string-array>
+</resources>
